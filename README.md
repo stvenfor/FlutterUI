@@ -48,4 +48,4 @@ from top
 
 效果图：
 
-![]()
+![](https://gitee.com/yumi0629/ImageAsset/raw/master/circle_progressbar/circle_progress_bar.gif)
