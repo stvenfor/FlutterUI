@@ -9,12 +9,12 @@ For help building amazing UI with Flutter.
 效果图：
 
 from left  
-![from left](https://gitee.com/yumi0629/ImageAsset/raw/master/slide_drawer/slide01.gif)
+![from left](https://github.com/yumi0629/SlideDrawer/blob/master/slide01.gif?raw=true)
     
-![from left](https://gitee.com/yumi0629/ImageAsset/raw/master/slide_drawer/slide02.gif)
+![from left](https://github.com/yumi0629/SlideDrawer/blob/master/slide02.gif?raw=true)
     
 from top  
-![from top](https://gitee.com/yumi0629/ImageAsset/raw/master/slide_drawer/slide03.gif)
+![from top](https://github.com/yumi0629/SlideDrawer/blob/master/slide03.gif?raw=true)
 
 ## Hero
 
